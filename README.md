@@ -27,3 +27,8 @@ The script generates three extra files:
 * z.txt: contains the maximized value of the objective function. each line corresponds to a budget in sequential order (500,000 - 15,000,000 euros)
 * uSmall.txt: contains the number of small camps built (follows same order as z.txt)
 * uLarge.txt contains the number of large camp built (follows same order as z.txt)
+````
+
+## Poster Layout
+
+
