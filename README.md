@@ -35,8 +35,3 @@ The script generates three extra files:
 ![Poster (left)](https://user-images.githubusercontent.com/24207683/94851838-e60cdf80-0420-11eb-9651-92d963f57eda.PNG)\
 ![Poster (center)](https://user-images.githubusercontent.com/24207683/94852070-40a63b80-0421-11eb-8afa-6a1c687685a9.PNG)\
 ![Poster (right)](https://user-images.githubusercontent.com/24207683/94852087-469c1c80-0421-11eb-9da9-6f1fe42a4b43.PNG)
-
-</br>
-</br>
-</br>
-</br> 📧 For more information regarding the project feel free to contact me.
